@@ -1,0 +1,4 @@
+obj/version.o: version.cpp version.h clientversion.h \
+ c:/Users/LeetGamer/Desktop/allpurposecoin/src/obj/build.h
+version.cpp version.h clientversion.h :
+/Users/LeetGamer/Desktop/allpurposecoin/src/obj/build.h :

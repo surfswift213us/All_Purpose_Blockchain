@@ -1,0 +1,9 @@
+Building AllPurposeCoin
+
+See doc/readme-qt.rst for instructions on building AllPurposeCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AllPurposeCoin.
+
+See doc/build-*.txt for instructions on building allpurposecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AllPurposeCoin.

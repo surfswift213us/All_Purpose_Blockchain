@@ -1,0 +1,2 @@
+obj/scrypt-sse2.o: scrypt-sse2.cpp scrypt.h
+scrypt-sse2.cpp scrypt.h :
